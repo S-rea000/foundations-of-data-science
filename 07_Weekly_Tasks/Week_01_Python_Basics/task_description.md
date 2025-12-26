@@ -55,7 +55,7 @@ These tasks focus on understanding Python fundamentals, data types, operators, a
 - Print the original string to demonstrate immutability.
 
 ## 10. Combining Strings
-- Combine `"Data"` and `"Science"` with a space in between.
+- Combine `"Data"` and `"Science"` without a space in between.
 - Print the combined string and its length.
 
 ## 11. In-Place vs Reassignment with String Methods
