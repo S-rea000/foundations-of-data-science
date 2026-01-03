@@ -11,6 +11,11 @@ This folder contains foundational Python notebooks forming the programming base 
 - Indexing, slicing, and built-in methods
 
 ### Purpose
-To build a strong programming foundation required for data analysis, visualization, and machine learning tasks.
+
+This folder contains Python programming notebooks developed as part of a structured data science learning curriculum. The content reflects progressive concept building and practical implementation aligned with foundational data science requirements.
+
+> This notebook is part of an ongoing structured learning process in data science and is updated as concepts are reinforced and expanded.
+
+
 
 
