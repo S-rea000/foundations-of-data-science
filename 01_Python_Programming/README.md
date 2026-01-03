@@ -1,7 +1,5 @@
 # Python Programming Fundamentals
 
-# Python Programming
-
 This folder contains foundational Python notebooks forming the programming base for data science.
 
 ### Topics Covered
