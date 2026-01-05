@@ -18,6 +18,7 @@ The purpose of this repository is to build strong fundamentals through hands-on 
 
 ## Tools & Technologies
 - Python
+- Google Colab
 - Jupyter Notebook
 - NumPy
 - Pandas
